@@ -1,4 +1,4 @@
-# Image_Generation_VAE
+# Anime Image Generation through deep learning
 We will implement image generation through VAE, hierarchical VAE anf GAN
 
 ### Table of Contents
