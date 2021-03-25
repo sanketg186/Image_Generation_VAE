@@ -1,5 +1,5 @@
 # Anime Image Generation through deep learning
-We will implement image generation through VAE, hierarchical VAE anf GAN
+We will implement image generation through VAE, hierarchical VAE and GAN
 
 ### Table of Contents
 
