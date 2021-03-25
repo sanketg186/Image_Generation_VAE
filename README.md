@@ -13,8 +13,8 @@ We will implement image generation through VAE, hierarchical VAE and GAN
 The project uses the following libraries in addition to Anaconda with python version:3.7.4.
 - pandas
 - numpy
-- Pytorch
-- Pytorch Lightning
+- Pytorch 1.7.0
+- Pytorch Lightning 1.2.0
 - matplotlib
 
 ## Project Motivation <a name="motivation"></a>
@@ -36,4 +36,4 @@ The main findings of the code:
 ![sample-1](gan_anime1.png) ![sample-2](gan_anime2.png)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-Must give credit to Airbnb and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).
+Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/splcher/animefacedataset).
