@@ -22,13 +22,18 @@ In this project, we will dive into the Anime dataset which is available on Kaggl
 
 ## File Descriptions <a name="files"></a>
 This folder contains jupyter notebooks.
-1. **image_generation.ipnyb**: This notebook contains the exploratory data analysis of Boston dataset.
+1. **image_generation.ipnyb**: This notebook contains the pytorch and pytorch Lightning implementation of VAE, HVAE and DCGAN.
 
 ## Results <a name="results"></a>
 The main findings of the code:
 ### VAE Results
 ![sample-1](vae_anime1.png) ![sample-2](vae_anime2.png)
 
+### HVAE Results
+![sample-1](hvae_anime1.png) ![sample-2](hvae_anime2.png)
+
+### GAN Results
+![sample-1](gan_anime1.png) ![sample-2](gan_anime2.png)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Must give credit to Airbnb and Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).
